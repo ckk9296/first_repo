@@ -5,6 +5,7 @@ class App extends Component{
   hiClicked(){
     alert('helo kishore')
   }
+  
 
   hiClickedWithParams(data){
     alert('hi'+data)
