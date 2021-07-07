@@ -8,7 +8,7 @@ class App extends Component{
   
 
   hiClickedWithParams(data){
-    alert('hi'+data)
+    
   }
 addNum(num1){
   let num2=2;
